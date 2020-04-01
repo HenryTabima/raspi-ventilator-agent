@@ -18,4 +18,4 @@ function initSerialPort () {
   return parser
 }
 
-module.exports = { initSerialPort }
+module.exports = initSerialPort
